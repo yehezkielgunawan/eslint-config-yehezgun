@@ -1,0 +1,25 @@
+{
+  "name": "eslint-yehezgun",
+  "version": "1.0.0",
+  "description": "This is Yehezkiel Gunawan's personal ESLint rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yehezkielgunawan/eslint-yehezgun.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Yehezkiel Gunawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yehezkielgunawan/eslint-yehezgun/issues"
+  },
+  "homepage": "https://github.com/yehezkielgunawan/eslint-yehezgun#readme",
+  "devDependencies": {
+    "eslint": "^8.8.0"
+  }
+}
