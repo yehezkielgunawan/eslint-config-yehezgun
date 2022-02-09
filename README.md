@@ -1,4 +1,4 @@
-# ESLint-Yehezgun
+# ESLint-Config-Yehezgun
 
 ![eslint-yehezgun](https://socialify.git.ci/yehezkielgunawan/eslint-yehezgun/image?description=1&descriptionEditable=Yehezkiel%20Gunawan%27s%20personal%20ESLint%20Rules&font=Raleway&logo=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Feslint9232.jpg&name=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
 
