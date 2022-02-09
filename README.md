@@ -11,9 +11,9 @@ This is ESLint rules that I usually use for my personal projects.
 # Installation
 
 ```bash
-npm i --save-dev eslint eslint-yehezgun
+npm i --save-dev eslint eslint-config-yehezgun
 # or if you're using yarn
-yarn add -D eslint eslint-yehezgun
+yarn add -D eslint eslint-config-yehezgun
 ```
 
 # Usage
