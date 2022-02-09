@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1-0](https://github.com/yehezkielgunawan/eslint-yehezgun/compare/v1.1.0...v1.1.1-0) (2022-02-09)
+
+
+### Bug Fixes
+
+* **Readme and package.json:** :package: change package name to eslint-config-yehezgun ([d2240b8](https://github.com/yehezkielgunawan/eslint-yehezgun/commit/d2240b8f150bae8a457fb18e945296bbb6902f93))
+
 ## 1.1.0 (2022-02-09)
 
 
