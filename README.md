@@ -25,3 +25,10 @@ module.exports = {
   extends: ["yehezgun"],
 };
 ```
+
+# What's in here
+`eslint-config-yehezgun` uses custom ESLint rules to adjust based on my current needs. But it also uses some plugins and extend the configuration from external library:
+- [`typescript-eslint/eslint-plugin`](https://www.npmjs.com/package/@typescript-eslint/eslint-plugin) : add some new useful plugin
+- [`eslint-config-prettier`](https://github.com/prettier/eslint-config-prettier#installation) : Turns off all rules that are unnecessary or might conflict with Prettier.
+- [`eslint-plugin-prettier`](https://github.com/prettier/eslint-plugin-prettier) : Runs Prettier as an ESLint rule and reports differences as individual ESLint issues.
+- [`eslint-plugin-sonarjs`](https://github.com/SonarSource/eslint-plugin-sonarjs) : SonarJS rules for ESLint to detect bugs and suspicious patterns in your code.
