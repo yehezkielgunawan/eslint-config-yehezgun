@@ -9,7 +9,7 @@ module.exports = {
     "prettier",
   ],
   parser: "@typescript-eslint/parser",
-  plugins: ["@typescript-eslint", "import", "unused-imports"],
+  plugins: ["@typescript-eslint", "import", "unused-imports", "prettier"],
   settings: {
     "import/resolver": {
       node: {
