@@ -12,7 +12,12 @@
     "url": "git+https://github.com/yehezkielgunawan/eslint-yehezgun.git"
   },
   "keywords": [
-    "eslint"
+    "eslint",
+    "eslint-config",
+    "typescript",
+    "eslint-rules",
+    "linter",
+    "javascript"
   ],
   "author": "Yehezkiel Gunawan",
   "license": "MIT",
