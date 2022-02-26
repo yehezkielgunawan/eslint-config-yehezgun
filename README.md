@@ -1,6 +1,6 @@
 # ESLint-Config-Yehezgun
 
-![eslint-yehezgun](https://socialify.git.ci/yehezkielgunawan/eslint-yehezgun/image?description=1&descriptionEditable=Yehezkiel%20Gunawan%27s%20personal%20ESLint%20Rules&font=Raleway&logo=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Feslint9232.jpg&name=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
+![eslint-config-yehezgun](https://socialify.git.ci/yehezkielgunawan/eslint-config-yehezgun/image?description=1&logo=https%3A%2F%2Fseeklogo.com%2Fimages%2FE%2Feslint-logo-4B5C528034-seeklogo.com.png&owner=1&pattern=Charlie%20Brown&theme=Dark)
 
 This is ESLint rules that I usually use for my personal projects. I custom rules depending on my current needs now.
 
@@ -38,41 +38,42 @@ module.exports = {
 # The ESLint rules that I used here
 
 ```js
- rules: {
-    'no-unused-vars': 'off',
-    '@typescript-eslint/no-unused-vars': 'off',
-    'unused-imports/no-unused-imports': 'error',
-    'unused-imports/no-unused-vars': [
-      'warn',
+   rules: {
+    "no-unused-vars": "off",
+    "no-var": "warn",
+    "@typescript-eslint/no-unused-vars": "off",
+    "unused-imports/no-unused-imports": "error",
+    "unused-imports/no-unused-vars": [
+      "warn",
       {
-        vars: 'all',
-        varsIgnorePattern: '^_',
-        args: 'after-used',
-        argsIgnorePattern: '^_',
+        vars: "all",
+        varsIgnorePattern: "^_",
+        args: "after-used",
+        argsIgnorePattern: "^_",
       },
     ],
-    '@typescript-eslint/explicit-module-boundary-types': 'off',
-    '@typescript-eslint/no-non-null-assertion': 'off',
-    '@typescript-eslint/no-inferrable-types': 'off',
-    'import/order': [
-      'warn',
+    "@typescript-eslint/explicit-module-boundary-types": "off",
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "@typescript-eslint/no-inferrable-types": "off",
+    "import/order": [
+      "warn",
       {
         groups: [
-          ['builtin', 'external'],
-          'internal',
-          'parent',
-          ['sibling', 'index'],
-          'object',
+          ["builtin", "external"],
+          "internal",
+          "parent",
+          ["sibling", "index"],
+          "object",
         ],
-        'newlines-between': 'always',
+        "newlines-between": "always",
         alphabetize: {
-          order: 'asc',
+          order: "asc",
           caseInsensitive: true,
         },
       },
     ],
-    complexity: 'warn',
-    'no-console': ['error'],
+    complexity: "warn",
+    "no-console": ["error"],
   },
 ```
 
