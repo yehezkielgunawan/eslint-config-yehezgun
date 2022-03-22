@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-yehezgun",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "This is Yehezkiel Gunawan's personal ESLint rules",
   "main": "index.js",
   "scripts": {
