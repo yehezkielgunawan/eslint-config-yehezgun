@@ -38,7 +38,7 @@ module.exports = {
 # The ESLint rules that I used here
 
 ```js
-   rules: {
+ rules: {
     "no-unused-vars": "off",
     "no-var": "warn",
     "@typescript-eslint/no-unused-vars": "off",
