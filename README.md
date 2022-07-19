@@ -80,6 +80,6 @@ module.exports = {
 # Want to Buy Me a Kofi?
 
 Sure, I'm open to anyone who want to gives some donation, LOL. Thank you by the way :D
-<a href="https://ko-fi.com/kaz200" target="_blank">
+<a href="https://ko-fi.com/yehezgun" target="_blank">
 <img src="https://res.cloudinary.com/yehez/image/upload/v1635687121/SupportMe_blue_2x_mlehwg.png" alt="drawing" width="200"/>
 </a>
