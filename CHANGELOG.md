@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.6](https://github.com/yehezkielgunawan/eslint-config-yehezgun/compare/v1.2.5...v1.2.6) (2023-05-04)
+
+
+### Bug Fixes
+
+* **dependabot.yaml:** :green_heart: use npm ([8f2704a](https://github.com/yehezkielgunawan/eslint-config-yehezgun/commit/8f2704a244c308ad647c23b8f43bb349bf576d35))
+
 ### [1.2.5](https://github.com/yehezkielgunawan/eslint-yehezgun/compare/v1.2.4...v1.2.5) (2022-07-19)
 
 ### [1.2.4](https://github.com/yehezkielgunawan/eslint-yehezgun/compare/v1.2.3...v1.2.4) (2022-07-19)
